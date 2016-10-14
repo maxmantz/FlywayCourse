@@ -1,0 +1,14 @@
+LICENSE.txt
+LICENSES-THIRD-PARTY.txt
+README.txt
+drivers/derby-10.12.1.1.jar
+drivers/derbyclient-10.12.1.1.jar
+drivers/h2-1.4.191.jar
+drivers/hsqldb-2.3.3.jar
+drivers/jtds-1.3.1.jar
+drivers/mariadb-java-client-1.4.5.jar
+drivers/postgresql-9.4.1208.jre6.jar
+drivers/put-your-jdbc-drivers-here.txt
+drivers/sqlite-jdbc-3.7.15-M1.jar
+lib/flyway-commandline-4.0.3.jar
+lib/flyway-core-4.0.3.jar
